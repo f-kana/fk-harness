@@ -33,7 +33,7 @@ SKILLの発動時にスキル固有のコンテキストをプロンプトに注
 
 解説：
 - **PreToolUse**: アシスタントが `Skill` ツールを呼び出したとき
-- **UserPromptSubmit**: ユーザーが `/skillname` と直接入力したとき
+- **UserPromptExpansion**: ユーザーが `/skillname` と直接入力したとき
 
 `.claude/hooks/skill-context-injectors/<skill名>.md` を置くだけで、そのSKILL発動時に `additionalContext` として注入される。
 

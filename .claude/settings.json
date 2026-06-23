@@ -11,7 +11,7 @@
         ]
       }
     ],
-    "UserPromptSubmit": [
+    "UserPromptExpansion": [
       {
         "hooks": [
           {
