@@ -1,11 +1,7 @@
-name: scanner-rename-initial-docs
+name: hoge
 version: 1.0.0
-description: APM project for scanner-rename-initial-docs
-author: F. Kanayama
-# Which agent platforms to deploy to.
-# Resolution order: --target flag > this field > auto-detect from filesystem.
-# Accepted values: vscode, agents, copilot, claude, cursor, opencode, codex,
-# gemini, antigravity, windsurf, kiro, agent-skills, all
+description: hoge
+author: F. K
 targets:
   - claude
 dependencies:
